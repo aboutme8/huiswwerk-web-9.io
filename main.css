@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(215, 247, 247);
+}
+header{
+    background-color: rgb(20, 163, 220);
+    
+}
+footer{
+    background-color:  rgb(20, 163, 220);
+    clear: both;
+}
+#kleur {
+    width: 33.33%;
+    float: left;
+  }
+  
+  #formulier {
+    width: 33.33%;
+    float: left;
+    background-color: rgb(138, 221, 241);
+  }
+  
+  #slide {
+    width: 33.33%;
+    float: left;
+  }
